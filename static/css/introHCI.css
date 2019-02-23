@@ -3,10 +3,15 @@
 	margin-top: 2em;
 }
 
+/* applies to anything of class "project" */
+.project{
+    margin-left: 20px;
+}
+
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
-	color: #CC00AA;
+	color: #5bc0de;
 }
 
 /* this style exists to make it obvious that you've successfully linked
@@ -14,6 +19,8 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+     text-align: center;
+    background-color: #d9edf7;
 }
 
 .jumbotron {
