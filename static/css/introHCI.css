@@ -11,7 +11,7 @@
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
-	color: #5bc0de;
+	color: #CC00AA;
 }
 
 /* this style exists to make it obvious that you've successfully linked
@@ -19,8 +19,6 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
-     text-align: center;
-    background-color: #d9edf7;
 }
 
 .jumbotron {
